@@ -238,3 +238,22 @@ footer{
     background-color: aliceblue;
     text-align: center;
 }
+.container2{
+    text-align: center;
+}
+#know-more{
+    display: none;
+}
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#name-validation, #email-validation, #message-validation{
+    color: crimson;
+    font-size: 13px;
+    display: none;
+}
+html{
+    scroll-behavior: smooth;
+}
